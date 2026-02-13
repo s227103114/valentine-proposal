@@ -1,5 +1,5 @@
 body {
-    background-color: #ffe4e1; /* Misty Rose */
+    background-color: purple; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,7 +11,7 @@ body {
 
 #container {
     text-align: center;
-    background: white;
+    background: pink;
     padding: 50px;
     border-radius: 20px;
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
@@ -54,4 +54,5 @@ button {
 
 @keyframes float {
     to { transform: translateY(-120vh); }
+
 }
